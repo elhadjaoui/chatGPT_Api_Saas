@@ -15,3 +15,22 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+/*
+i have this class 
+class TXO {
+  spent = false
+   
+  constructor(owner, amount) {
+      this.owner = owner;
+      this.amount = amount;
+  }
+  spend() {
+   this.spent = true;   
+  }
+}
+and I have an array  of this class where I need to get the total amount of the array using javascript 
+*/
+
+
